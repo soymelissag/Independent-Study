@@ -41,7 +41,10 @@ color: #ff4769;
   color: black;
   padding-left: 200px;
 }
-
+.img {
+    width:50%;
+    height:50%;
+}
 html{
 	height: 100%;
 }
