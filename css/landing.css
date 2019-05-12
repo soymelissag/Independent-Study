@@ -54,8 +54,7 @@ body{
 	background-image: url("../images/SumofUs-01.svg");
   width: 80%;
 	background-size: cover;
-	background-position: absolute;
-	color:hotpink;
+	background-position: center;
 }
 h1{
 	font-size: 3em;
