@@ -17,7 +17,6 @@
 <body>
   <div class="navbar">
     <a href="landing.html">Home</a>
-    <a href="#about">About</a>
   </div>
   <div class="main">
   </div>
@@ -57,11 +56,9 @@
    <script>
    var slideIndexOne = 1;
    showDivsOne(slideIndexOne);
-
    function plusDivsOne(n) {
      showDivsOne(slideIndexOne += n);
    }
-
    function showDivsOne(n) {
      var i;
      var x = document.getElementsByClassName("mySlides");
@@ -93,11 +90,9 @@
    <script>
    var slideIndexTwo = 1;
    showDivsTwo(slideIndexTwo);
-
    function plusDivsTwo(n) {
      showDivsTwo(slideIndexTwo += n);
    }
-
    function showDivsTwo(n) {
      var i;
      var x = document.getElementsByClassName("ISlides");
@@ -120,7 +115,7 @@
 
    <h2>Popular Mexican Dishes</h2>
    <div class="w3-content w3-display-container">
-     <img class="FSlides" src="images/bandeja.jpg" style="width:100%">
+     <img class="FSlides" src="images/chilaquiles.jpg" style="width:100%">
      <img class="FSlides" src="images/ajiaco.jpg" style="width:100%">
 
      <button class="w3-button w3-white w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
@@ -129,11 +124,9 @@
    <script>
    var slideIndex = 1;
    showDivs(slideIndex);
-
    function plusDivs(n) {
      showDivs(slideIndex += n);
    }
-
    function showDivs(n) {
      var i;
      var x = document.getElementsByClassName("FSlides");
