@@ -48,7 +48,7 @@ html{
 }
 
 body{
-	background-image: url("../images/SumofUs-01-01.jpg");
+	background-image: url("../images/SumofUs-011-01.jpg");
   /* Full height */
 
   /* Center and scale the image nicely */
@@ -88,11 +88,11 @@ hr{
   button {
   background-color: #FFDAB9;
   border: none;
-  padding: 12px 29px;
+  padding: 10px 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin: 360px 256px;
+  margin: 360px 253px;
   cursor: pointer;
 }
