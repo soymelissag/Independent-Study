@@ -85,6 +85,14 @@ hr{
 	border-top: 1px solid #f8f8f8;
 	border-bottom: 1px solid rgba(0,0,0,0.2);
 }
-.btn-default{
-	font-family: 'Space Mono', monospace;
+  button {
+  background-color: #FFDAB9;
+  border: none;
+  padding: 12px 29px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 300px 250px;
+  cursor: pointer;
 }
