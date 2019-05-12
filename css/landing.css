@@ -44,6 +44,8 @@ color: #ff4769;
 .img {
     width:50%;
     height:50%;
+    position:absolute;
+
 }
 html{
 	height: 100%;
