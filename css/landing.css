@@ -47,9 +47,9 @@ html{
 }
 body{
 	background-image: url("../images/Cover2.jpg");
-  width:100%;
+  width: 80%;
 	background-size: cover;
-	background-position: fixed;
+	background-position: absolute;
 	color:hotpink;
 }
 h1{
